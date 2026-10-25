@@ -18,14 +18,6 @@ The system helps maintain an organised record of reported issues, making it easi
 
 The purpose of this project is to simplify the process of reporting and tracking maintenance issues while providing a convenient way to retain and review previous requests.
 
-## Getting Started
-
-1. Clone this repository to your local machine.
-2. Open the project in your preferred development environment.
-3. Follow the project-specific setup instructions to configure and run the application.
-
-## Future Improvements
-
 Potential enhancements include adding request status tracking, timestamps, user authentication, database integration, and maintenance request prioritisation.
 
 ## Author
