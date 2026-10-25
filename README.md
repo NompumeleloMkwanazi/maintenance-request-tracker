@@ -20,6 +20,5 @@ The purpose of this project is to simplify the process of reporting and tracking
 
 Potential enhancements include adding request status tracking, timestamps, user authentication, database integration, and maintenance request prioritisation.
 
-## Author
-
 Developed as a software development project to explore request management, record keeping, and application functionality.
+
